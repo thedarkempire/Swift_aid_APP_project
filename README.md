@@ -1,2 +1,2 @@
-# Swift_aid_APP_project
-It is a app/website to help communicate between the ambulance drivers and the hospitals to ensure fastest cure for the patient who is in life or death situation 
+**URL**: https://lovable.dev/projects/5aa7921b-153a-4f4a-9aba-7b8bf0f6be2a
+SwiftAid is a comprehensive, web-based ambulance tracking and management system designed to streamline emergency medical services. With a focus on speed, precision, and efficiency, the platform enables healthcare providers to respond faster and smarter to medical emergencies.
